@@ -1,0 +1,6 @@
+:root{
+    --vp-custom-block-tip-text: #10b981;
+    --vp-custom-block-tip-bg: rgba(16,185,129,.05);
+    --vp-custom-block-tip-border: rgba(16,185,129,.5);
+    --vp-home-hero-name-color: red;
+}

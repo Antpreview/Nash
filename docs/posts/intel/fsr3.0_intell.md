@@ -1,12 +1,17 @@
 ---
 layout: doc
-title: FSR 3.0 Gamecoom2003 Amd
+title: FSR 3.0 Gamecoom2003 Intell
 ---
 
-# FSR 3.0 TODO LO QUE TIENES QUE SABER
-
-
 <img src="/imgPost/fsr3.0_img1.jpg" alt="Presentacion de amd">
+
+---
+
+::: tip
+Todo lo aqui expuesto es mi opinion personal, tomalo con calma y sientate a difrustar con una gaceosa.
+:::
+
+# FSR 3.0 TODO LO QUE TIENES QUE SABER
 
 FSR 3.0 o también como (FidelityFX Super Resolution) después de tanto tiempo tenemos noticias por parte de AMD con la nueva actualización de su reescalado inteligente. Hagamos un repaso con lo nuevo que se viene y cuanto nos falta para que llegue a nuestros ordenadores. 
 
